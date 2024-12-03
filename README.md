@@ -1,5 +1,6 @@
 <h1 align="center"> <img src="https://cdn-icons-png.flaticon.com/512/2866/2866069.png" width="50" height="50" />Hi! I'm Enrique</h1>
-<h3 align="center">I am a dedicated Backend Developer with extensive experience in technologies such as PHP, Laravel, WordPress, JavaScript, and more!! I thrive on solving complex problems and tackling challenging projects. My curiosity to learn new things ensures that I stay updated with the latest advancements in the field.</h3>
+<h3 align="center"I'm Enrique, a developer with a passion for coding and learning new technologies. Skilled in Python, HTML, and CSS, I enjoy turning ideas into functional and visually appealing projects.  
+.</h3>
 - 📚 I am Student
 <br>
 <br>
