@@ -4,3 +4,7 @@
 
 -  I am 19 years old
 <h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> 
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" heigth="40" width="40" />
+  </a> </p>
