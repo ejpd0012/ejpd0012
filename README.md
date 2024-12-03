@@ -1,6 +1,9 @@
 <h1 align="center"> <img src="https://cdn-icons-png.flaticon.com/512/2866/2866069.png" width="50" height="50" />Hi! I'm Enrique</h1>
 <h3 align="center">I am a dedicated Backend Developer with extensive experience in technologies such as PHP, Laravel, WordPress, JavaScript, and more!! I thrive on solving complex problems and tackling challenging projects. My curiosity to learn new things ensures that I stay updated with the latest advancements in the field.</h3>
 - 📚 I am Student
+<br>
+<br>
+<img align="right" alt="Coding" width="250" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDRhOHRzODhkOXYxbGUxN2Q1dGxxd2Z4a29jaGZsdjhqcTJxYmllOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/etjjDkzmBbsLS/giphy.gif">
 
 -  I am 19 years old
 <h3 align="left">Languages and Tools:</h3>
@@ -17,5 +20,5 @@
   <a href="https://www.heidisql.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/HeidiSQL_logo_image.png" alt="heidisql" width="40" height="40">
   </a>
-  <img align="right" alt="Coding" width="250" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDRhOHRzODhkOXYxbGUxN2Q1dGxxd2Z4a29jaGZsdjhqcTJxYmllOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/etjjDkzmBbsLS/giphy.gif">
+  
 </p>
