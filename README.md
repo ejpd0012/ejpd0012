@@ -17,7 +17,6 @@
   <a href="https://www.heidisql.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/HeidiSQL_logo_image.png" alt="heidisql" width="40" height="40">
   </a>
-  <a href="https://www.jetbrains.com/es-es/phpstorm/" target="_blank" rel="noreferrer">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/phpstorm/phpstorm-original.svg" alt="phpstorm" width="40" height="40" />
-  </a>
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40">
 </p>
