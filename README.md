@@ -23,5 +23,5 @@
   <a href="https://www.heidisql.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/HeidiSQL_logo_image.png" alt="heidisql" width="40" height="40">
   </a>
-  
+  <img src="https://raw.githubusercontent.com/Hoxuro/Hoxuro/output/snake.svg" alt="Snake animation" />
 </p>
