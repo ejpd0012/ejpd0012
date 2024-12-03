@@ -8,6 +8,10 @@
   <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> 
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" heigth="40" width="40" />
   </a>
-<a href="https://www.w3.org/css/" target="_blank" rel="noreferrer">
+  <a href="https://www.w3.org/css/" target="_blank" rel="noreferrer">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" heigth="40" width="40"  />
-  </a> </p>
+  </a>
+  <a href="https://www.w3.org/css/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" height="40" width="40" />
+  </a>
+</p>
