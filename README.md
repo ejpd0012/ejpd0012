@@ -1,6 +1,18 @@
-# Hi there! 👋  
-I'm **Enrique**, a developer skilled in **Python** and proficient in **HTML** and **CSS**.  
-I enjoy creating clean and efficient code while bringing ideas to life through design and functionality.  
-I’m passionate about learning and constantly improving my skills.  
+# 🌟 Hi there! 👋  
 
-Let’s build something great together! 🚀  
+Welcome to my GitHub! I'm **Enrique**, a developer skilled in:  
+- 🐍 **Python**  
+- 🎨 **HTML** and **CSS**  
+
+---
+
+### 💻 What I love to do:  
+✨ Write clean and efficient code  
+🎨 Bring ideas to life with design and functionality  
+📚 Continuously learn and improve  
+
+---
+
+### 🚀 Let’s create something amazing together!  
+
+Feel free to explore my projects, contribute, or just say hi! 😊  
