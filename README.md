@@ -1,9 +1,9 @@
 <h1 align="center"> <img src="https://cdn-icons-png.flaticon.com/512/2866/2866069.png" width="50" height="50" />Hi! I'm Enrique</h1>
 <h3 align="center"I'm Enrique, a developer with a passion for coding and learning new technologies. Skilled in Python, HTML, and CSS, I enjoy turning ideas into functional and visually appealing projects.  
 .</h3>
-- 📚 I am Student
 <br>
 <br>
+
 <img align="right" alt="Coding" width="250" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDRhOHRzODhkOXYxbGUxN2Q1dGxxd2Z4a29jaGZsdjhqcTJxYmllOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/etjjDkzmBbsLS/giphy.gif">
 - 📚 I am student
 -  i am 19 years old
