@@ -24,9 +24,6 @@
   <a href="https://www.adobe.com/es/products/illustrator.html" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" alt="illustrator" width="40" height="40">
   </a>
-  <a href="https://www.adobe.com/la/products/photoshop.html" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" alt="photoshop" width="40" height="40">
-  </a>
 </p>
 
 </br>
