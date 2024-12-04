@@ -35,4 +35,4 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/HeidiSQL_logo_image.png" alt="heidisql" width="40" height="40">
   </a>
   </p>
-<img src="[https://raw.githubusercontent.com/Hoxuro/Hoxuro/output/snake.svg" alt="Snake animation](https://www.gifsanimados.org/data/media/562/linea-imagen-animada-0031.gif)" />
+<img src="[https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Line animation](https://www.gifsanimados.org/data/media/562/linea-imagen-animada-0031.gif)" />
