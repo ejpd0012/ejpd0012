@@ -5,11 +5,9 @@
 <br>
 <img align="right" alt="Coding" width="250" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDRhOHRzODhkOXYxbGUxN2Q1dGxxd2Z4a29jaGZsdjhqcTJxYmllOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/etjjDkzmBbsLS/giphy.gif">
 
-- 🔭 I am currently working as a Backend Developer
+- I am 19 years old
 
-- 💬 Ask me about **anything related with web development**
-
-- 📫 How to reach me **www.linkedin.com/in/heriberto-amezcua-hernández-02288420a**
+- I am currently studying
 
 </br>
 
@@ -24,18 +22,6 @@
   <a href="https://www.w3.org/css/" target="_blank" rel="noreferrer">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" heigth="40" width="40"  />
   </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="40" height="40">
-  </a>
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40">
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40" />
-  </a>
   <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original-wordmark.svg" alt="mysql" width="40" height="40" />
   </a>
