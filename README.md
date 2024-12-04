@@ -25,6 +25,13 @@
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="python" width="40" height="40" />
   </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40" />
+  <a href="https://wordpress.org/" target="_blank" rel="noreferrer">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain-wordmark.svg" alt="wordpress" width="40" height="40" />
   </a>
+  <a href="https://www.adobe.com/la/products/photoshop.html" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" alt="photoshop" width="40" height="40">
+  </a>
+  <a href="https://www.heidisql.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/HeidiSQL_logo_image.png" alt="heidisql" width="40" height="40">
+  </a>
+
